@@ -61,13 +61,13 @@ Gamma App (for PPT creation)
 MS Word / PDF Report
 
 # 4. Steps & Workflow
-## Step 1: Load Dataset in Python
+### Step 1: Load Dataset in Python
 
 Imported CSV using Pandas
 
 Checked basic structure using .head(), .info(), .describe()
 
-Step 2: Exploratory Data Analysis (EDA)
+### Step 2: Exploratory Data Analysis (EDA)
 
 Identified missing values, outliers, duplicates
 
@@ -75,7 +75,7 @@ Performed univariate & bivariate analysis
 
 Visualized insights using charts
 
-Step 3: Data Cleaning
+### Step 3: Data Cleaning
 
 Handled null values
 
@@ -85,7 +85,7 @@ Converted datatypes
 
 Applied feature transformations (if needed)
 
-Step 4: Load Data into MySQL
+### Step 4: Load Data into MySQL
 
 Connected Python to MySQL using SQLAlchemy / pymysql
 
@@ -95,7 +95,7 @@ Inserted cleaned dataset
 
 Executed SQL queries for deeper analysis
 
-Step 5: Build Power BI Dashboard
+### Step 5: Build Power BI Dashboard
 
 Connected Power BI to MySQL
 
@@ -105,13 +105,13 @@ Created visualizations: KPI cards, charts, slicers, insights
 
 Designed an interactive dashboard
 
-Step 6: Report Preparation
+### Step 6: Report Preparation
 
 Summarized findings
 
 Highlighted KPIs, trends, insights & recommendations
 
-Step 7: Final PPT (Gamma)
+### Step 7: Final PPT (Gamma)
 
 Created a visually appealing project presentation
 
