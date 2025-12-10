@@ -61,7 +61,7 @@ Gamma App (for PPT creation)
 MS Word / PDF Report
 
 # 4. Steps & Workflow
-Step 1: Load Dataset in Python
+## Step 1: Load Dataset in Python
 
 Imported CSV using Pandas
 
