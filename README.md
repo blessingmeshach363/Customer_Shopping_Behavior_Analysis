@@ -1,4 +1,4 @@
-# Customer_Shopping_Behavior_Analysis
+# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 📊 Data Analytics Project – End-to-End Pipeline
 1. Overview
 
