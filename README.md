@@ -1,6 +1,6 @@
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-📊 Data Analytics Project – End-to-End Pipeline
-1. Overview
+#📊 Data Analytics Project – End-to-End Pipeline
+#1. Overview
 
 This project demonstrates a complete data analytics workflow starting from data loading to dashboard creation.
 It includes:
@@ -21,7 +21,7 @@ Designing a presentation using Gamma
 
 This project is designed to showcase strong analytical skills, data engineering basics, and reporting abilities.
 
-2. Dataset
+#2. Dataset
 
 Source: Public/open-source dataset (replace with actual source if needed)
 
@@ -33,7 +33,7 @@ Description: Contains information about (mention domain — e.g., sales, custome
 
 Key Columns: Add 3–5 important fields
 
-3. Tools & Technologies Used
+#3. Tools & Technologies Used
 Programming & Analysis
 
 Python (Pandas, NumPy, Matplotlib/Seaborn)
@@ -60,7 +60,7 @@ Gamma App (for PPT creation)
 
 MS Word / PDF Report
 
-4. Steps & Workflow
+#4. Steps & Workflow
 Step 1: Load Dataset in Python
 
 Imported CSV using Pandas
@@ -117,7 +117,7 @@ Created a visually appealing project presentation
 
 Included problem statement, process, dashboard screenshots, results
 
-5. Dashboard Overview (Power BI)
+#5. Dashboard Overview (Power BI)
 
 The dashboard includes:
 
@@ -131,7 +131,7 @@ Filters for dynamic exploration
 
 Summary insights
 
-6. Results & Insights
+#6. Results & Insights
 
 Some key outcomes (customize based on your dataset):
 
@@ -143,7 +143,7 @@ Highlighted actionable business insights
 
 Provided data-driven recommendations
 
-7. How to Run This Project
+#7. How to Run This Project
 Prerequisites
 
 Python 3.10+
@@ -173,7 +173,7 @@ Open the Power BI file in /dashboard and refresh the data connection.
 
 Review the project report and presentation in the /reports folder.
 
-8. Folder Structure (optional)
+#8. Folder Structure (optional)
 /data           → raw & cleaned datasets  
 /notebooks      → Python analysis notebooks  
 /sql_queries    → MySQL scripts  
